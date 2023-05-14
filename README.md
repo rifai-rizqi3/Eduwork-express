@@ -1,0 +1,1 @@
+Lanjut di menit 22:17
