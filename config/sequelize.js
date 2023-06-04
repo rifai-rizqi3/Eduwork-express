@@ -4,7 +4,7 @@ const sequelize = new Sequelize({
     database: 'eduwork-cruds-v2',
     host: 'localhost',
     username: 'root',
-    password: 'root',
+    password: 'Ngatini12.,',
     dialect: 'mysql'
 });
 
