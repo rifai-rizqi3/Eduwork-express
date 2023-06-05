@@ -14,7 +14,7 @@ app.use('/api/v2', productRouterV2);
 app.use((req, res, next) => {
     res.status(404);
     res.send({
-        status: 'failedd',
+        status: 'failed',
         message: 'source ' + req.originalUrl + ' not found'
     })
 })
